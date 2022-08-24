@@ -1,0 +1,17 @@
+.slider {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.left,
+.right {
+  font-size: 32px;
+  color: rgb(157, 128, 204);
+}
+
+.slider img {
+  height: 400px;
+  width: auto;
+}
